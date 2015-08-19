@@ -1,4 +1,4 @@
-## Create a matrix object that has can cache it's inverse
+## Create a matrix object that can cache its inverse
 ## and a function to return the inverse - from cache if available
 
 
